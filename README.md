@@ -87,9 +87,9 @@ The SuperStore dataset is a popular retail dataset containing:
 
 ## Author
 
-- **[Your Name]**
-- **GitHub Profile**: [Your GitHub Link]
-- **LinkedIn**: [Your LinkedIn Link]
+- **[Akshat Sharma]**
+- **GitHub Profile**: [[Link](https://github.com/Akshat-Sharma-110011)]
+- **LinkedIn**: [[Link](https://www.linkedin.com/in/akshat-sharma-b71117344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
